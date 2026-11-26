@@ -1,0 +1,8 @@
+{
+  "name": "text-display-api",
+  "version": "1.0.0",
+  "description": "API that displays text sent by anyone on a live web page",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js", "test-data": "node send-test.js" }
+}
